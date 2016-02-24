@@ -11,7 +11,7 @@ using namespace std;
 
 StringController::StringController()
 {
-	printThis = "hello";
+	printThis = "hello world";
 }
 
 
